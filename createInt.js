@@ -1,3 +1,6 @@
+//binary search will run with node
+// save file as createInt.js
+// to run type "node createInt.js
 var randomInteger = function(val) {
 	val ival = Math.round()*256;
 	//console.log(ival);

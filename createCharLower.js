@@ -1,3 +1,6 @@
+//binary search will run with node
+// save file as createCharLower.js
+// to run type "node createCharLower.js
 var randomInteger = function(val) {
 	val ival = Math.round()*26+65;
 	//console.log(ival);
